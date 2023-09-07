@@ -19,3 +19,6 @@ sudo apt install docker-compose
 
 sudo curl -L https://github.com/SpecterOps/BloodHound/raw/main/examples/docker-compose/docker-compose.yml | docker-compose -f - up
 ```
+# Google Meet
+
+https://meet.google.com/byv-itkj-wbj
