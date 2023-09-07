@@ -21,4 +21,4 @@ sudo curl -L https://github.com/SpecterOps/BloodHound/raw/main/examples/docker-c
 ```
 # Google Meet
 
-https://meet.google.com/txc-nzms-nug
+https://meet.google.com/osd-bvxw-pqd
