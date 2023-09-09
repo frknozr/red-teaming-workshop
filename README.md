@@ -1,6 +1,9 @@
 # red-teaming-workshop
 Red Teaming Workshop Training
 
+# Presentation
+https://github.com/frknozr/red-teaming-workshop/blob/main/Active%20Directory%20Red%20Teaming_SGYK.pdf
+
 # Lab Servers
 https://docs.google.com/spreadsheets/d/1cDcuJ0hDyvvxkRJXdZ8CCvooKHaKNmQcwte85n5rYnM
 
